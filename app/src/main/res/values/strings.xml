@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="name">Note App</string>
+    <string name="delete">Delete</string>
+    <string name="pin">Pin</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+</resources>
